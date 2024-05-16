@@ -52,7 +52,7 @@
       "name" : "Andrea Zucco",
       "age" : 19,
       "secretIdentity" : "Unknown",
-      "powers" : "none"
+      "powers" : ["none"]
     }
 
   ]
