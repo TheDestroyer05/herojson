@@ -49,7 +49,10 @@
     },
 
     {
-      "name" : "Andrea Zucco"
+      "name" : "Andrea Zucco",
+      "age" : 19,
+      "secretIdentity" : "Unknown",
+      "powers" : "none"
     }
 
   ]
